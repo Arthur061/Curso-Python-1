@@ -16,7 +16,7 @@ if m >=5.0:
     print('Boa média, continue assim {}!'.format(nome))
     print('PS: voce é lindo, ok')
 else:
-    print('Puta que pariu parceiro...')
+    print('Puts em parceiro...')
     print('Sem comentarios para voce bro')
 
 
@@ -31,7 +31,7 @@ else:
 p2 = str(input('Digite o nome de um professor chato: '))
 
 if p2 == 'Arthur':
-    print('Yamete, eu não sou chato... Estou triste agora, obrigado :) #TristezaProfunda')
+    print('Pare, eu não sou chato... Estou triste agora, obrigado :) #TristezaProfunda')
 else:
     print('Verdade... ele é bem chato')
 
